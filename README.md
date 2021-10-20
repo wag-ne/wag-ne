@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wag-ne&layout=compact&theme=dracula)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Delivery Center](https://www.deliverycenter.com/)
@@ -11,4 +9,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Ruby
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/wagcsantos/)
 - ⚡ Fun fact: my nickname on work is kid
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wag-ne&layout=compact&theme=dracula)
 
