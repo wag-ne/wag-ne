@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=wag-ne&layout=compact&theme=dracula)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Delivery Center](https://www.deliverycenter.com/)
